@@ -42,7 +42,7 @@ Python packages (already listed at repo root `requirements.txt`):
 ```
 MetaTrader5
 python-dotenv
-python-telegram-bot>=20,<21
+python-telegram-bot>=20.7
 ```
 
 Install:
@@ -140,4 +140,5 @@ TP5 open
 ## Disclaimer
 
 This software is provided â€œas isâ€ without warranties. Trading is risky; use at your own risk and test thoroughly on a demo account.
+
 
